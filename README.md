@@ -19,8 +19,9 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 <p align="center">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngegg.png?raw=true" width="100" title="Veeam">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="90" title="VMWare">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware-1024.png?raw=true" width="90" title="VMWare">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/aws-amazon-web-services.svg?raw=true" width="50" title="AWS">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="50" title="TSM">
 </p>
 
 
