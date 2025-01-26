@@ -15,6 +15,13 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-giuliano-giovanini/)](https://www.linkedin.com/in/matheus-giuliano-giovanini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
 [![Veeam Community](https://img.shields.io/badge/Veeam%20Community-backup)](https://community.veeam.com/members/matheusgiovanini-13586)
+![Veeam Community](https://img.shields.io/badge/VeeamCommunity-blue)
+
+<p align="center">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.png?raw=true" width="100" title="Veeam">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="90" title="VMWare">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="20" title="TSM">
+</p>
 
 
 ## 💻 Technical Skills
@@ -80,7 +87,6 @@ My passion for backup systems and data protection drives my continuous efforts t
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Active_VUG.png?raw=true" width="100" title="Active_VUG">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Discussions_Guardian.png?raw=true" width="100" title="Discussions_Guardian">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Hackthon.png?raw=true" width="100" title="Community_Hackthon">
-  
 </p>
 
 ![Veeam University](https://img.shields.io/badge/VeeamUniversity-white)
