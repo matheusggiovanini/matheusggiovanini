@@ -19,13 +19,13 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 <p align="center">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngegg.png?raw=true" width="100" title="Veeam">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware-1024.png?raw=true" width="90" title="VMWare">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngfind.com-vmware-logo-png-6658248.png?raw=true" width="90" title="VMWare">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/aws-amazon-web-services.svg?raw=true" width="50" title="AWS">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="50" title="TSM">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="100" title="TSM">
 </p>
 
 
-## 💻 Technical Skills
+## 🚀💻 Technical Skills
 
 ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)
 ![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)
@@ -39,12 +39,14 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![DR](https://img.shields.io/badge/DR-white)
 ![TesteRestore](https://img.shields.io/badge/TesteRestore-lightblue)
 
+
 ![Storage](https://img.shields.io/badge/Storage-Random)
 ![Library](https://img.shields.io/badge/Library-gray)
 ![Tape](https://img.shields.io/badge/Tape-yellow)
 ![HBA](https://img.shields.io/badge/HBA-blue)
 ![iSCSI](https://img.shields.io/badge/iSCSI-black)
 ![FC](https://img.shields.io/badge/FC-red)
+
 
 ![VMWare](https://img.shields.io/badge/VMWare-lightblue)
 ![Hyper-v](https://img.shields.io/badge/Hyperv-blue)
@@ -53,13 +55,14 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Azure](https://img.shields.io/badge/Azure-darkblue)
 ![Google Cloud](https://img.shields.io/badge/Google-gray)
 
+
 ![Windows](https://img.shields.io/badge/AIX-blue)
 ![rhel](https://img.shields.io/badge/Redhat-red)
 ![Ubutu](https://img.shields.io/badge/Ubunto-purple)
 ![AIX](https://img.shields.io/badge/AIX-brown)
 
 
-## 🚀 Certifications & Badges
+## 🚀 Certifications
 
 ![Veeam](https://img.shields.io/badge/VeeamCertifications-backup)
 <p align="center">
@@ -90,11 +93,13 @@ My passion for backup systems and data protection drives my continuous efforts t
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Community_Hackthon.png?raw=true" width="100" title="Community_Hackthon">
 </p>
 
+
 ![Veeam University](https://img.shields.io/badge/VeeamUniversity-white)
 <p align="center">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VeeamUniversity_DataPlataform.png?raw=true" width="200" title="University_Data_Plataform">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VeeamUniversity_MS365.png?raw=true" width="200" title="University_MS365">
 </p>
+
 
 ![Introduction to IBM Spectrum Protect Plus ](https://img.shields.io/badge/TSM-black)
 <p align="center">
