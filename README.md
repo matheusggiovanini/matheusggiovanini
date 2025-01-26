@@ -18,9 +18,9 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Veeam Community](https://img.shields.io/badge/VeeamCommunity-blue)
 
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/veeam.png?raw=true" width="100" title="Veeam">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngegg.png?raw=true" width="100" title="Veeam">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/vmware.png?raw=true" width="90" title="VMWare">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/aws-amazon-web-services.svg?raw=true" width="100" title="AWS">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/aws-amazon-web-services.svg?raw=true" width="50" title="AWS">
 </p>
 
 
