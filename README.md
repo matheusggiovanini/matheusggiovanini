@@ -71,6 +71,10 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Ubutu](https://img.shields.io/badge/Ubunto-purple)
 ![AIX](https://img.shields.io/badge/AIX-brown)
 
+
+![SQL](https://img.shields.io/badge/SQL-gray)
+![Oracle](https://img.shields.io/badge/OracleRman-black)
+
 ## 🚀 Certifications
 
 ![Veeam](https://img.shields.io/badge/VeeamCertifications-backup)
