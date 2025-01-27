@@ -21,13 +21,21 @@ My passion for backup systems and data protection drives my continuous efforts t
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-giuliano-giovanini/)](https://www.linkedin.com/in/matheus-giuliano-giovanini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
 [![Veeam Community](https://img.shields.io/badge/Veeam%20Community-backup)](https://community.veeam.com/members/matheusgiovanini-13586)
-![Veeam Community](https://img.shields.io/badge/VeeamCommunity-blue)
 
 <p align="center">
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngegg.png?raw=true" width="100" title="Veeam">&nbsp;
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngfind.com-vmware-logo-png-6658248.png?raw=true" width="90" title="VMWare">&nbsp;
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/aws-amazon-web-services.svg?raw=true" width="50" title="AWS">&nbsp;
-  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="100" title="TSM">&nbsp;
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngegg.png?raw=true" width="130" title="Veeam">&nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/pngfind.com-vmware-logo-png-6658248.png?raw=true" width="120" title="VMWare">&nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/aws-amazon-web-services.svg?raw=true" width="80" title="AWS">&nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="130" title="TSM">&nbsp;
 </p>
 
 ## 🚀💻 Technical Skills
@@ -56,9 +64,9 @@ My passion for backup systems and data protection drives my continuous efforts t
 ![Nutanix](https://img.shields.io/badge/Nutanix-purple)
 ![AWS](https://img.shields.io/badge/AWS-red)
 ![Azure](https://img.shields.io/badge/Azure-darkblue)
-![Google Cloud](https://img.shields.io/badge/Google-gray)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-gray)
 
-![Windows](https://img.shields.io/badge/AIX-blue)
+![Windows](https://img.shields.io/badge/Windows-blue)
 ![rhel](https://img.shields.io/badge/Redhat-red)
 ![Ubutu](https://img.shields.io/badge/Ubunto-purple)
 ![AIX](https://img.shields.io/badge/AIX-brown)
