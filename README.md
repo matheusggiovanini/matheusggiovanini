@@ -19,8 +19,8 @@ My passion for backup systems and data protection drives my continuous efforts t
 - 🗺**City**: Belo Horizonte, Minas Gerais, Brazil.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-giuliano-giovanini/)](https://www.linkedin.com/in/matheus-giuliano-giovanini/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-giuliano-giovanini/)](https://www.linkedin.com/in/matheus-giuliano-giovanini/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaninimatheus96@gmail.com)](mailto:giovaninimatheus96@gmail.com)&nbsp;
 [![Veeam Community](https://img.shields.io/badge/Veeam%20Community-backup)](https://community.veeam.com/members/matheusgiovanini-13586)
 
 
@@ -55,11 +55,11 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 | | |
 |---|---|
-| **Backup** | ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)![Veeam Offiec365](https://img.shields.io/badge/Veeam%20Office365-white)![Veeam AWS](https://img.shields.io/badge/Veeam%20AWS-red)![Veeam Azure](https://img.shields.io/badge/Veeam%20Azure-darkblue)![Veeam Nutanix](https://img.shields.io/badge/Veeam%20Nutanix-purple)![TSM](https://img.shields.io/badge/TSM-black)![TSM SPP](https://img.shields.io/badge/TSM%20SPP-white)![Backup Exec](https://img.shields.io/badge/Veritas%20BackupExec-yellow)![DR](https://img.shields.io/badge/DR-white)![TesteRestore](https://img.shields.io/badge/TesteRestore-lightblue)|
-| **Virtualizator** | ![VMWare](https://img.shields.io/badge/VMWare-lightblue)![Hyper-v](https://img.shields.io/badge/Hyperv-blue)![Nutanix](https://img.shields.io/badge/Nutanix-purple)![AWS](https://img.shields.io/badge/AWS-red)![Azure](https://img.shields.io/badge/Azure-darkblue)![Google Cloud](https://img.shields.io/badge/GoogleCloud-gray)|
-| **Hardaware** | ![Storage](https://img.shields.io/badge/Storage-Random)![Library](https://img.shields.io/badge/Library-gray)![Tape](https://img.shields.io/badge/Tape-yellow)![HBA](https://img.shields.io/badge/HBA-blue)![iSCSI](https://img.shields.io/badge/iSCSI-black)![FC](https://img.shields.io/badge/FC-red) |
-| **Databases** | ![SQL](https://img.shields.io/badge/SQL-gray)![Oracle](https://img.shields.io/badge/OracleRman-black)|
-| **OS** |![Windows](https://img.shields.io/badge/Windows-blue)![rhel](https://img.shields.io/badge/Redhat-red)![Ubutu](https://img.shields.io/badge/Ubunto-purple)![AIX](https://img.shields.io/badge/AIX-brown)  |
+| **Backup** | ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)&nbsp;![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)&nbsp;![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)&nbsp;![Veeam Offiec365](https://img.shields.io/badge/Veeam%20Office365-white)&nbsp;![Veeam AWS](https://img.shields.io/badge/Veeam%20AWS-red)&nbsp;![Veeam Azure](https://img.shields.io/badge/Veeam%20Azure-darkblue)&nbsp;![Veeam Nutanix](https://img.shields.io/badge/Veeam%20Nutanix-purple)&nbsp;![TSM](https://img.shields.io/badge/TSM-black)&nbsp;![TSM SPP](https://img.shields.io/badge/TSM%20SPP-white)&nbsp;![IBM Cloud](https://img.shields.io/badge/IBMCloud-gray)&nbsp;![Backup Exec](https://img.shields.io/badge/Veritas%20BackupExec-yellow)&nbsp;![DR](https://img.shields.io/badge/DR-white)&nbsp;![TesteRestore](https://img.shields.io/badge/TesteRestore-lightblue)|
+| **Virtualizator** | ![VMWare](https://img.shields.io/badge/VMWare-lightblue)&nbsp;![Hyper-v](https://img.shields.io/badge/Hyperv-blue)&nbsp;![Nutanix](https://img.shields.io/badge/Nutanix-purple)&nbsp;![AWS](https://img.shields.io/badge/AWS-red)&nbsp;![Azure](https://img.shields.io/badge/Azure-darkblue)&nbsp;![Google Cloud](https://img.shields.io/badge/GoogleCloud-gray)|
+| **Hardaware** | ![Storage](https://img.shields.io/badge/Storage-Random)&nbsp;![Library](https://img.shields.io/badge/Library-gray)&nbsp;![Tape](https://img.shields.io/badge/Tape-yellow)&nbsp;![HBA](https://img.shields.io/badge/HBA-blue)&nbsp;![iSCSI](https://img.shields.io/badge/iSCSI-black)&nbsp;![FC](https://img.shields.io/badge/FC-red) |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL-gray)&nbsp;![Oracle](https://img.shields.io/badge/OracleRman-black)|
+| **OS** |![Windows](https://img.shields.io/badge/Windows-blue)&nbsp;![rhel](https://img.shields.io/badge/Redhat-red)&nbsp;![Ubutu](https://img.shields.io/badge/Ubunto-purple)&nbsp;![AIX](https://img.shields.io/badge/AIX-brown)  |
 
 ## 🚀 Certifications
 
@@ -110,7 +110,6 @@ My passion for backup systems and data protection drives my continuous efforts t
 </p>
 
 
-
  ## 📑​ Recommendations and Compliments
 
 Throughout my career as a backup analyst, I’ve been fortunate to receive constructive feedback and positive encouragement that has helped me refine my skills and approach. The feedback I've received—whether it’s praise for my attention to detail or valuable recommendations on improving system efficiency—has been instrumental in shaping my work. I’m grateful for the insights that have helped me grow in this field, and I’m always open to more. On this GitHub, you'll find projects and solutions that reflect the ongoing learning process that feedback has inspired. I’m excited to continue improving and collaborating with others to build even better, more reliable backup systems.
@@ -123,3 +122,19 @@ It is with great pride that I carry the following feedbacks:
 | **Vaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Vaccinar.png?raw=true" width="300" title="Vaccinar"> |
 | **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |
 
+
+ ## 📌​​ A little more about my experience as a Backup Analyst
+With extensive experience as a backup analyst for large companies, I’ve had the opportunity to work on a variety of critical systems and backup solutions. My journey includes managing and optimizing backup operations for over 40 clients, with notable experience at some of the industry’s biggest players:
+
+<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+Tambasa: Led backup operations for AIX servers, performing weekly tapeouts, managing library expansion, and executing SAN backups. Additionally, I utilized plugins for RMAN to optimize backup performance.
+<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+Tambasa Financeira: Focused on Veeam for AWS environments, performing regular test restores to ensure backup integrity and reliability.
+<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+Siematec: Managed complex backup jobs integrated with SQL for over 300 databases, ensuring seamless protection and recovery of critical business data.
+<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+Unilavras: Handled IBM Cloud backup solutions, implementing reliable and scalable cloud-based protection for their infrastructure.
+<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+Super Nosso: Managed RMAN backups with plugin integration, and facilitated backup operations integrated with Nutanix systems to ensure data security across diverse platforms.
+
+Each role has strengthened my expertise in data protection, disaster recovery, and ensuring business continuity, working with cutting-edge technologies across various environments.
