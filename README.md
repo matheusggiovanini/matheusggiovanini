@@ -13,10 +13,10 @@ My experience includes implementing Veeam for diverse infrastructures, including
 
 My passion for backup systems and data protection drives my continuous efforts to explore the latest industry advancements, ensuring that I deliver the most effective and future-proof solutions. Whether optimizing on-premises, cloud, or hybrid environments, I am committed to safeguarding data and helping businesses build resilient IT infrastructures.
 
-- 📖**University**: FUMEC
-- 👨‍💻**Course**: Computing Networks.
-- 💻**Role**: Senior Backup Analyst at Proativa.
-- 🗺**City**: Belo Horizonte, Minas Gerais, Brazil.
+- 🎓**University**: FUMEC
+- 🖥️**Course**: Computing Networks.
+- 💾**Role**: Senior Backup Analyst at Proativa.
+- 🏙️**City**: Belo Horizonte, Minas Gerais, Brazil.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-giuliano-giovanini/)](https://www.linkedin.com/in/matheus-giuliano-giovanini/)&nbsp;
@@ -122,6 +122,7 @@ With extensive experience as a backup analyst for large companies, I’ve had th
 <br />
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/tambasaatacadista.png?raw=true" width="200" title="Tambasa">
+  <br />
   <br />
 Tambasa: Led backup operations for AIX servers, performing weekly tapeouts, managing library expansion with 6 drivers LTO9, and executing SAN backups. Additionally, I utilized plugins for RMAN to optimize backup performance.
 </p>
