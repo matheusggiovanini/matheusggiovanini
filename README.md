@@ -5,7 +5,6 @@
 <!--
 **matheusggiovanini/matheusggiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 I'm a Senior Backup Analyst at **[Proativa Info](https://proativainfo.com.br)**.
 
 As a Backup Analyst with over 4 years of experience, I have developed a deep expertise in designing, implementing, and optimizing data protection strategies across various environments. I specialize in industry-leading backup solutions such as Veeam, TSM, and Data Protector, and have a strong track record of leading successful backup projects from conception through to execution.
