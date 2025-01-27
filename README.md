@@ -1,5 +1,7 @@
 # Hello, i'm Matheus Giuliano Giovanini! 
-
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/matheusggiovanini/matheusggiovanini?color=yellow" alt="Visitors badge" />
+ </a>
 <!--
 **matheusggiovanini/matheusggiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -108,6 +110,17 @@ My passion for backup systems and data protection drives my continuous efforts t
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VTSP.png?raw=true" width="200" title="TSM Cert">
 </p>
 
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/matheusggiovanini/matheusggiovanini?color=yellow" alt="Visitors badge" />
- </a>
+
+
+ ## 📑​ Recommendations and Compliments
+
+Throughout my career as a backup analyst, I’ve been fortunate to receive constructive feedback and positive encouragement that has helped me refine my skills and approach. The feedback I've received—whether it’s praise for my attention to detail or valuable recommendations on improving system efficiency—has been instrumental in shaping my work. I’m grateful for the insights that have helped me grow in this field, and I’m always open to more. On this GitHub, you'll find projects and solutions that reflect the ongoing learning process that feedback has inspired. I’m excited to continue improving and collaborating with others to build even better, more reliable backup systems.
+
+It is with great pride that I carry the following feedbacks:
+
+| | |
+|---|---|
+| **Supermercados BHVaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH"> |
+| **Vaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Vaccinar.png?raw=true" width="300" title="Vaccinar"> |
+| **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |
+
