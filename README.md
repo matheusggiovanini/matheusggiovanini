@@ -50,9 +50,7 @@ My passion for backup systems and data protection drives my continuous efforts t
 - [What's new at Veeam 13](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-veeam13-activity-7288970160592355329-vnUs?utm_source=share&utm_medium=member_desktop)
 
 
-
 ## 💻 Technical Skills
-
 | | |
 |---|---|
 | **Backup** | ![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)&nbsp;![VeeamBackup](https://img.shields.io/badge/Veeam%20Backup-backup)&nbsp;![VeeamOne](https://img.shields.io/badge/VeeamOne-blue)&nbsp;![Veeam Offiec365](https://img.shields.io/badge/Veeam%20Office365-white)&nbsp;![Veeam AWS](https://img.shields.io/badge/Veeam%20AWS-red)&nbsp;![Veeam Azure](https://img.shields.io/badge/Veeam%20Azure-darkblue)&nbsp;![Veeam Nutanix](https://img.shields.io/badge/Veeam%20Nutanix-purple)&nbsp;![TSM](https://img.shields.io/badge/TSM-black)&nbsp;![TSM SPP](https://img.shields.io/badge/TSM%20SPP-white)&nbsp;![IBM Cloud](https://img.shields.io/badge/IBMCloud-gray)&nbsp;![Backup Exec](https://img.shields.io/badge/Veritas%20BackupExec-yellow)&nbsp;![DR](https://img.shields.io/badge/DR-white)&nbsp;![TesteRestore](https://img.shields.io/badge/TesteRestore-lightblue)|
@@ -62,7 +60,6 @@ My passion for backup systems and data protection drives my continuous efforts t
 | **OS** |![Windows](https://img.shields.io/badge/Windows-blue)&nbsp;![rhel](https://img.shields.io/badge/Redhat-red)&nbsp;![Ubutu](https://img.shields.io/badge/Ubunto-purple)&nbsp;![AIX](https://img.shields.io/badge/AIX-brown)  |
 
 ## 🚀 Certifications
-
 ![Veeam](https://img.shields.io/badge/VeeamCertifications-backup)
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_Fundamentals_2024.png?raw=true" width="200" title="Fundamentals_2024">
@@ -108,10 +105,8 @@ My passion for backup systems and data protection drives my continuous efforts t
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VTSP.png?raw=true" width="200" title="TSM Cert">
 </p>
-
-
+<br />
  ## 📑​ Recommendations and Compliments
-
 Throughout my career as a backup analyst, I’ve been fortunate to receive constructive feedback and positive encouragement that has helped me refine my skills and approach. The feedback I've received—whether it’s praise for my attention to detail or valuable recommendations on improving system efficiency—has been instrumental in shaping my work. I’m grateful for the insights that have helped me grow in this field, and I’m always open to more. On this GitHub, you'll find projects and solutions that reflect the ongoing learning process that feedback has inspired. I’m excited to continue improving and collaborating with others to build even better, more reliable backup systems.
 
 It is with great pride that I carry the following feedbacks:
@@ -121,20 +116,38 @@ It is with great pride that I carry the following feedbacks:
 | **Supermercados BHVaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH"> |
 | **Vaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Vaccinar.png?raw=true" width="300" title="Vaccinar"> |
 | **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |
-
-
+<br />
  ## 📌​​ A little more about my experience as a Backup Analyst
 With extensive experience as a backup analyst for large companies, I’ve had the opportunity to work on a variety of critical systems and backup solutions. My journey includes managing and optimizing backup operations for over 40 clients, with notable experience at some of the industry’s biggest players:
-
-<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
-Tambasa: Led backup operations for AIX servers, performing weekly tapeouts, managing library expansion, and executing SAN backups. Additionally, I utilized plugins for RMAN to optimize backup performance.
-<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+<br />
+<p align="left">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/tambasaatacadista.png?raw=true" width="200" title="Tambasa">
+  <br />
+Tambasa: Led backup operations for AIX servers, performing weekly tapeouts, managing library expansion with 6 drivers LTO9, and executing SAN backups. Additionally, I utilized plugins for RMAN to optimize backup performance.
+</p>
+<br />
+<p align="left">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/tambasafin.png?raw=true" width="200" title="Tambasa Financeira">
+  <br />
 Tambasa Financeira: Focused on Veeam for AWS environments, performing regular test restores to ensure backup integrity and reliability.
-<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+</p>
+<br />
+<p align="left">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/siematec.png?raw=true" width="200" title="Siematec">
+  <br />
 Siematec: Managed complex backup jobs integrated with SQL for over 300 databases, ensuring seamless protection and recovery of critical business data.
-<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
+</p>
+<br />
+<p align="left">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/unilavras.png?raw=true" width="200" title="Unilavras">
+  <br />
 Unilavras: Handled IBM Cloud backup solutions, implementing reliable and scalable cloud-based protection for their infrastructure.
-<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH">
-Super Nosso: Managed RMAN backups with plugin integration, and facilitated backup operations integrated with Nutanix systems to ensure data security across diverse platforms.
-
+</p>
+<br />
+<p align="left">
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/supernosso.jpeg?raw=true" width="200" title="Super Nosso">
+  <br />
+Super Nosso: Managed RMAN backups with plugin integration, and facilitated backup operations integrated with Nutanix systems to ensure data security across diverse platforms, performing weekly tapeouts, managing library.
+</p>
+<br />
 Each role has strengthened my expertise in data protection, disaster recovery, and ensuring business continuity, working with cutting-edge technologies across various environments.
