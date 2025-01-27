@@ -60,7 +60,7 @@ My passion for backup systems and data protection drives my continuous efforts t
 | **OS** |![Windows](https://img.shields.io/badge/Windows-blue)&nbsp;![rhel](https://img.shields.io/badge/Redhat-red)&nbsp;![Ubutu](https://img.shields.io/badge/Ubunto-purple)&nbsp;![AIX](https://img.shields.io/badge/AIX-brown)  |
 
 ## 🚀 Certifications
-![Veeam](https://img.shields.io/badge/VeeamCertifications-backup)
+![Veeam](https://img.shields.io/badge/Veeam-backup)
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_Fundamentals_2024.png?raw=true" width="200" title="Fundamentals_2024">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_CloudService_2024.png?raw=true" width="200" title="Professional_CloudService_2024">
@@ -119,7 +119,7 @@ It is with great pride that I carry the following feedbacks:
 | **Vaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Vaccinar.png?raw=true" width="300" title="Vaccinar"> |
 | **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |
 <br />
- ## 📌​​ A little more about my experience as a Backup Analyst
+## 📌 A little more about my experience as a Backup Analyst
 <br />
 <br />
 With extensive experience as a backup analyst for large companies, I’ve had the opportunity to work on a variety of critical systems and backup solutions. My journey includes managing and optimizing backup operations for over 40 clients, with notable experience at some of the industry’s biggest players:
