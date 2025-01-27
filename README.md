@@ -36,6 +36,10 @@ My passion for backup systems and data protection drives my continuous efforts t
   &nbsp;
   &nbsp;
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/TSM.png?raw=true" width="130" title="TSM">&nbsp;
+    &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/clipart547106.png?raw=true" width="130" title="RHEL">&nbsp;
 </p>
 
 ## 🚀💻 Technical Skills
