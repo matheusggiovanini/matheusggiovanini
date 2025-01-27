@@ -120,9 +120,9 @@ It is with great pride that I carry the following feedbacks:
  ## 📌​​ A little more about my experience as a Backup Analyst
 With extensive experience as a backup analyst for large companies, I’ve had the opportunity to work on a variety of critical systems and backup solutions. My journey includes managing and optimizing backup operations for over 40 clients, with notable experience at some of the industry’s biggest players:
 <br />
+<br />
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/tambasaatacadista.png?raw=true" width="200" title="Tambasa">
-  <br />
   <br />
 Tambasa: Led backup operations for AIX servers, performing weekly tapeouts, managing library expansion with 6 drivers LTO9, and executing SAN backups. Additionally, I utilized plugins for RMAN to optimize backup performance.
 </p>
