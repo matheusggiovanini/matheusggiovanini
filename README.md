@@ -46,6 +46,7 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ## 📝 Latest Articles
 
+- [Ransoware in pratice](https://www.linkedin.com/posts/matheus-giuliano-giovanini_ransomware-backup-seguranaexati-activity-7289586206403694596-a9yY?utm_source=share&utm_medium=member_ios)
 - [3-2-2-1-0 Rule](https://www.linkedin.com/feed/update/urn:li:activity:7289263766406361088/)
 - [What's new at Veeam 13](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-veeam13-activity-7288970160592355329-vnUs?utm_source=share&utm_medium=member_desktop)
 
