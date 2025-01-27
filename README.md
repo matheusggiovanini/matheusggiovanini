@@ -119,7 +119,7 @@ It is with great pride that I carry the following feedbacks:
 | **Vaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Vaccinar.png?raw=true" width="300" title="Vaccinar"> |
 | **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |
 <br />
-## 📌 A little more about my experience as a Backup Analyst
+## 📌 A little more about my daily responsability
 <br />
 <br />
 With extensive experience as a backup analyst for large companies, I’ve had the opportunity to work on a variety of critical systems and backup solutions. My journey includes managing and optimizing backup operations for over 40 clients, with notable experience at some of the industry’s biggest players:
