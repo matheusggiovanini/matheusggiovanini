@@ -1,4 +1,4 @@
-# Hello, i'm Matheus Giuliano Giovanini! 
+# Hello, i'm **[Matheus Giuliano Giovanini!](https://www.linkedin.com/in/matheus-giuliano-giovanini/)** 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/matheusggiovanini/matheusggiovanini?color=yellow" alt="Visitors badge" />
  </a>
