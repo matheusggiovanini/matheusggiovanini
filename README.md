@@ -1,6 +1,6 @@
 # Hello, i'm **[Matheus Giuliano Giovanini!](https://www.linkedin.com/in/matheus-giuliano-giovanini/)** 
 <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/matheusggiovanini/matheusggiovanini?color=yellow" alt="Visitors badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/matheusggiovanini/matheusggiovanini?color=darkblue" alt="Visitors badge" />
  </a>
 <!--
 **matheusggiovanini/matheusggiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
