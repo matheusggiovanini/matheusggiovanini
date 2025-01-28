@@ -44,13 +44,6 @@ My passion for backup systems and data protection drives my continuous efforts t
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/clipart547106.png?raw=true" width="130" title="RHEL">&nbsp;
 </p>
 
-## 📝 Latest Articles
-
-- [Ransoware in pratice](https://www.linkedin.com/posts/matheus-giuliano-giovanini_ransomware-backup-seguranaexati-activity-7289586206403694596-a9yY?utm_source=share&utm_medium=member_ios)
-- [3-2-2-1-0 Rule](https://www.linkedin.com/feed/update/urn:li:activity:7289263766406361088/)
-- [What's new at Veeam 13](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-veeam13-activity-7288970160592355329-vnUs?utm_source=share&utm_medium=member_desktop)
-
-
 ## 💻 Technical Skills
 | | |
 |---|---|
@@ -60,7 +53,14 @@ My passion for backup systems and data protection drives my continuous efforts t
 | **Databases** | ![SQL](https://img.shields.io/badge/SQL-gray)&nbsp;![Oracle](https://img.shields.io/badge/OracleRman-black)|
 | **OS** |![Windows](https://img.shields.io/badge/Windows-blue)&nbsp;![rhel](https://img.shields.io/badge/Redhat-red)&nbsp;![Ubutu](https://img.shields.io/badge/Ubunto-purple)&nbsp;![AIX](https://img.shields.io/badge/AIX-brown)  |
 
-## 🚀 Certifications
+## 📝 Latest Articles
+
+- [Ransoware in pratice](https://www.linkedin.com/posts/matheus-giuliano-giovanini_ransomware-backup-seguranaexati-activity-7289586206403694596-a9yY?utm_source=share&utm_medium=member_ios)
+- [3-2-2-1-0 Rule](https://www.linkedin.com/feed/update/urn:li:activity:7289263766406361088/)
+- [What's new at Veeam 13](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-veeam13-activity-7288970160592355329-vnUs?utm_source=share&utm_medium=member_desktop)
+
+
+## 🏆​ Certifications
 ![Veeam](https://img.shields.io/badge/Veeam-backup)
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Veeam_Professional_Fundamentals_2024.png?raw=true" width="200" title="Fundamentals_2024">
@@ -106,10 +106,8 @@ My passion for backup systems and data protection drives my continuous efforts t
 <p align="left">
   <img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/VTSP.png?raw=true" width="200" title="TSM Cert">
 </p>
-<br />
- ## 📑​ Recommendations and Compliments
-<br />
-<br />
+
+## ✔️​ Recommendations and Compliments
 Throughout my career as a backup analyst, I’ve been fortunate to receive constructive feedback and positive encouragement that has helped me refine my skills and approach. The feedback I've received—whether it’s praise for my attention to detail or valuable recommendations on improving system efficiency—has been instrumental in shaping my work. I’m grateful for the insights that have helped me grow in this field, and I’m always open to more. I’m excited to continue improving and collaborating with others to build even better, more reliable backup systems.
 
 It is with great pride that I carry the following feedbacks:
@@ -117,13 +115,12 @@ It is with great pride that I carry the following feedbacks:
 | | |
 |---|---|
 | **Tambasa** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/tambasa.jpeg?raw=true" width="300" title="Tambasa"> |
-| **Supermercados BHVaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH"> |
+| **Supermercados BH** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/BH.png?raw=true" width="300" title="BH"> |
 | **Vaccinar** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/Vaccinar.png?raw=true" width="300" title="Vaccinar"> |
-| **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |
-<br />
-## 📌 A little more about my daily responsability
-<br />
-<br />
+| **Feluma** |<img src="https://github.com/matuis-bit/Matheus-Giovanini/blob/main/feluma.jpeg?raw=true" width="300" title="Feluma"> |<br />
+<br /><br />
+
+## 🚀​ A little more about my daily responsability
 With extensive experience as a backup analyst for large companies, I’ve had the opportunity to work on a variety of critical systems and backup solutions. My journey includes managing and optimizing backup operations for over 40 clients, with notable experience at some of the industry’s biggest players:
 <br />
 <br />
