@@ -55,6 +55,7 @@ My passion for backup systems and data protection drives my continuous efforts t
 
 ## 📝 Latest Articles
 
+- [Veeam Data Analyser](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-dataanalyser-backup-activity-7292165016798072832-zCEc?utm_source=share&utm_medium=member_ios)
 - [Veeam Data Plugin](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-dataplugin-activity-7290889038826237953-7-yh?utm_source=share&utm_medium=member_ios)
 - [Common Vulnerabilities and Exposures](https://www.linkedin.com/posts/matheus-giuliano-giovanini_seguranaexati-veeam-cve-activity-7290345468151173120-Kdvv?utm_source=share&utm_medium=member_ios)
 - [Ransoware in pratice](https://www.linkedin.com/posts/matheus-giuliano-giovanini_ransomware-backup-seguranaexati-activity-7289586206403694596-a9yY?utm_source=share&utm_medium=member_ios)
