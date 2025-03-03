@@ -54,7 +54,9 @@ My passion for backup systems and data protection drives my continuous efforts t
 | **OS** |![Windows](https://img.shields.io/badge/Windows-blue)&nbsp;![rhel](https://img.shields.io/badge/Redhat-red)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-purple)&nbsp;![AIX](https://img.shields.io/badge/AIX-brown)  |
 
 ## 📝 Latest Articles
-
+- [Veeam for Office 365. Are you really protected?](https://www.linkedin.com/posts/matheus-giuliano-giovanini_backup-microsoft365-veeam-activity-7302135597387673600-LAUV?utm_source=share&utm_medium=member_ios&rcm=ACoAACPOeKABsi5TtKarDILcg6KwzjiKcnjJIUY)
+- [Veeam Instant Recovery](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-instantrecovery-activity-7300688588734656512-9JLC?utm_source=share&utm_medium=member_ios&rcm=ACoAACPOeKABsi5TtKarDILcg6KwzjiKcnjJIUY)
+- [Data protector](https://www.linkedin.com/posts/matheus-giuliano-giovanini_como-criar-um-design-de-prote%C3%A7%C3%A3o-de-dados-activity-7295396243936043008-NZNU?utm_source=share&utm_medium=member_ios&rcm=ACoAACPOeKABsi5TtKarDILcg6KwzjiKcnjJIUY)
 - [Veeam Backup Best Practices](https://www.linkedin.com/feed/update/urn:li:activity:7295396243936043008/)
 - [Veeam Malware Detection](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-malwaredetection-backup-activity-7293991981356085248-xWN9?utm_source=share&utm_medium=member_ios)
 - [Veeam Data Analyser](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-dataanalyser-backup-activity-7292165016798072832-zCEc?utm_source=share&utm_medium=member_ios)
