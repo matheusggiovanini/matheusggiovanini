@@ -54,6 +54,10 @@ My passion for backup systems and data protection drives my continuous efforts t
 | **OS** |![Windows](https://img.shields.io/badge/Windows-blue)&nbsp;![rhel](https://img.shields.io/badge/Redhat-red)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-purple)&nbsp;![AIX](https://img.shields.io/badge/AIX-brown)  |
 
 ## 📝 Latest Articles
+- [Using IBM Library with Veeam](https://techdirectarchive.com/2025/04/23/using-ibm-library-with-veeam/)
+- [Veeam Backup and Replication Disk I/O with diskspd](https://techdirectarchive.com/2025/04/16/simulate-veeam-backup-replication-disk-i-o-with-diskspd/)
+- [Fixing AIX Veeam agent job startup delay issue](https://techdirectarchive.com/2025/04/04/fixing-aix-veeam-agent-job-startup-delay-issue/)
+- [Ensuring Backup Integrity and Reliable Recovery with SureBackup](https://techdirectarchive.com/2025/03/26/veeam-surebackup-ensuring-backup-integrity-and-reliable-recovery/)
 - [Veeam for Office 365. Are you really protected?](https://www.linkedin.com/posts/matheus-giuliano-giovanini_backup-microsoft365-veeam-activity-7302135597387673600-LAUV?utm_source=share&utm_medium=member_ios&rcm=ACoAACPOeKABsi5TtKarDILcg6KwzjiKcnjJIUY)
 - [Veeam Instant Recovery](https://www.linkedin.com/posts/matheus-giuliano-giovanini_veeam-backup-instantrecovery-activity-7300688588734656512-9JLC?utm_source=share&utm_medium=member_ios&rcm=ACoAACPOeKABsi5TtKarDILcg6KwzjiKcnjJIUY)
 - [Data protector](https://www.linkedin.com/posts/matheus-giuliano-giovanini_como-criar-um-design-de-prote%C3%A7%C3%A3o-de-dados-activity-7295396243936043008-NZNU?utm_source=share&utm_medium=member_ios&rcm=ACoAACPOeKABsi5TtKarDILcg6KwzjiKcnjJIUY)
